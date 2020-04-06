@@ -1,8 +1,9 @@
 # UFOs
 
-- Creating, populating and deploying an interactive webpage and a dynamic table with multiple filters using JavaScript, HTML and CSS.
+- Creating, populating and deploying an interactive webpage
+- dynamic table with multiple filters using JavaScript, HTML and CSS.
 
-## Project Outline
+## Outline
 
 - Creating an JavaScript [app.js](/static/js/app.js) contains several functions.
 
@@ -14,11 +15,12 @@
 
 ## Challenge
 
-**Enhance webpage capability by additional filter by multiple factors.**
+Enhance webpage capability by additional filter by multiple factors.
 
-Using d3 to Make an event listener for multiple changes on 'input' tag area, then display filtered datasets on result table.
+- Using d3 to Make an event listener for multiple changes on 'input' tag area
+- display filtered datasets on result table
 
-### Result Example:
+### Example:
 
 - Mulitple filtered by date on 1/1/2020 and City is elcajon:
 
