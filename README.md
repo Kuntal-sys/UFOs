@@ -10,7 +10,7 @@
 
 - Building an HTML file [index.html](/index.html) with Bootstrap styling as well as a CSS file [style.css](/static/css/style.css).
 
-- Deploying based on Github Pages: <https:/Kuntal.github.io/UFOs/>
+- Deploying based on Github Pages: <https://kuntal-sys.github.io/UFOs/>
 
 ## Challenge
 
